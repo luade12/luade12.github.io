@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.velic.mts.vex",
+    "sha256_cert_fingerprints":
+    ["57:7F:3D:4A:BB:2C:21:2F:68:5A:E4:3E:BD:14:3B:5A:BB:A4:CE:CD:F6:CF:AA:A9:7B:16:A8:A1:00:D5:16:88"]
+  }
+}]
